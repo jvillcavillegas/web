@@ -6,6 +6,7 @@ image:
   focal_point: Smart
 summary: Proportion of women who published in the NEJM through out time. Work in progress.
 tags:
+- Open data and R
 - Data Feminism
 - Web scrapping
 title: Gender disparity in the NEJM

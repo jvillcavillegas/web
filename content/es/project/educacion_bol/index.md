@@ -9,6 +9,6 @@ tags:
 - educación
 - feminismo
 - Bolivia
-- datos abiertos
+- Datos abiertos y R
 title: Brecha de género en educación.
 ---
