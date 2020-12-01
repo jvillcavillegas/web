@@ -1,24 +1,5 @@
 ---
-abstract: "Objetivo: Estimar los efectos de intervenciones hipotéticas en la presión arterial sistólica (PAS) y en el hábito de
-fumar en el riesgo de accidente cerebrovascular (ACV) y el riesgo de demencia usando datos de 15 años de
-seguimiento dentro del Estudio de Rotterdam.
-Métodos: Usamos datos de 4930 personas, con edad de 55-80 años, sin antecedente de ACV, deterioro
-cognitivo, demencia y seguidos durante 15 años dentro del Estudio de Rotterdam, una cohorte poblacional.
-Definimos las siguientes intervenciones sostenidas en la PAS (1) mantener la PAS debajo de 120 mmHg, (2)
-mantener la PAS debajo de 140 mmHg, (3) reducir la PAS en un 10% si es mayor a 140 mmHg, (4) reducir la
-PAS en 20% si es mayor a 140 mmHg, e intervenciones que combinan la intervención de dejar de fumar con
-cada una de las estrategias propuestas para disminuir la PAS. Consideramos como evento el caso incidente de
-ACV y el diagnóstico incidente de demencia. Aplicamos la g-formula paramétrica para ajustar por variables
-confundidoras fijas y que varían en el tiempo.
-Resultados: El riesgo observado de ACV a 15 años fue del 10.7%. Comparando con la intervención no
-especificada (“el curso natural”), todas las intervenciones que reducen la PAS estuvieron asociadas con una
-reducción del riesgo de ACV de alrededor del 10% (ej. Reducir la PAS en 20% si es mayor a 140mmHg, riesgo
-relativo: 0.89; IC95%: 0.76, 1). Intervenciones conjuntas en la PAS y dejar de fumar disminuyeron más el riesgo
-de ACV (ej. riesgo relativo: 0.83; IC95%: 0.71, 0.94). Ninguna de las intervenciones especificadas estuvieron
-asociadas con un cambio substancial en el riesgo de demencia.
-Conclusiones: Nuestro estudio sugiere que intervenciones conjuntas en la PAS y dejar de fumar pueden
-disminuir el riesgo de ACV en la edad tardía, mientras que el potencial para reducir el riesgo de demencia no fue
-observado. "
+abstract: "We aimed to study the effects of hypothetical interventions on systolic blood pressure (SBP) and smoking on risk of stroke and dementia using data from 15 years of follow-up in the Rotterdam Study. We used data from 4930 individuals, aged 55–80 years, with no prior history of stroke, dementia or cognitive impairment, followed for 15 years within the Rotterdam Study, a population-based cohort. We defined the following sustained interventions on SBP: (1) maintaining SBP below 120 mmHg, (2) maintaining SBP below 140 mmHg, (3) reducing SBP by 10% if above 140 mmHg, (4) reducing SBP by 20% if above 140 mmHg, and a combined intervention of quitting smoking with each of these SBP-lowering strategies. We considered incident stroke and incident dementia diagnoses as outcomes. We applied the parametric g-formula to adjust for baseline and time-varying confounding. The observed 15-year risk for stroke was 10.7%. Compared to no specified intervention (i.e., the “natural course”), all interventions that involved reducing SBP were associated with a stroke risk reduction of about 10% (e.g., reducing SBP by 20% if above 140 mmHg risk ratio: 0.89; 95% CI 0.76, 1). Jointly intervening on SBP and smoking status further decreased the risk of stroke (e.g., risk ratio: 0.83; 95% CI 0.71, 0.94). None of the specified interventions were associated with a substantive change in dementia risk. Our study suggests that a joint intervention on SBP and smoking cessation during later life may reduce stroke risk, while the potential for reducing dementia risk were not observed."
 author_notes:
 - Equal contribution
 - Equal contribution
@@ -42,7 +23,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2020-11-27"
-slides: example
+slides: https://eje2020-serslides.netlify.app/#1
 summary: 
 tags:
 - Target trial
@@ -50,16 +31,15 @@ tags:
 - Hypertension
 - Stroke
 - Dementia
-title: "Intervenciones hipotéticas para disminuir la presión arterial, y el riesgo de accidente cerebrovascular y
-demencia" 
+title: "Hypothetical blood-pressure-lowering interventions and risk of stroke and dementia" 
 url_code: "https://github.com/palolili23/ht_trial_gformula"
 url_dataset: ""
-url_pdf: https://static-content.springer.com/esm/art%3A10.1007%2Fs10654-020-00694-5/MediaObjects/10654_2020_694_MOESM2_ESM.pdf
+url_pdf: "https://link.springer.com/content/pdf/10.1007/s10654-020-00694-5.pdf"
 url_poster: ""
 url_project: ""
-url_slides: ""
+url_slides: https://eje2020-serslides.netlify.app/#1
 url_source: ""
 url_video: ""
 ---
 
-La versión en español del artículo se encuentra como material suplementario 2 en la página oficial del artículo y puede descargarse en el siguiente [link.](https://static-content.springer.com/esm/art%3A10.1007%2Fs10654-020-00694-5/MediaObjects/10654_2020_694_MOESM2_ESM.pdf)
+A Spanish translation of this manuscript can be found in the [Supplementary Material 2](https://static-content.springer.com/esm/art%3A10.1007%2Fs10654-020-00694-5/MediaObjects/10654_2020_694_MOESM2_ESM.pdf).

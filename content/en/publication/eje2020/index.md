@@ -22,8 +22,8 @@ publication: '*European Journal of Epidemiology*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
+publishDate: "2020-11-27"
+slides: https://eje2020-serslides.netlify.app/#1
 summary: 
 tags:
 - Target trial
@@ -34,10 +34,12 @@ tags:
 title: "Hypothetical blood-pressure-lowering interventions and risk of stroke and dementia" 
 url_code: "https://github.com/palolili23/ht_trial_gformula"
 url_dataset: ""
-url_pdf: https://link.springer.com/content/pdf/10.1007/s10654-020-00694-5.pdf
+url_pdf: "https://link.springer.com/content/pdf/10.1007/s10654-020-00694-5.pdf"
 url_poster: ""
 url_project: ""
-url_slides: ""
+url_slides: https://eje2020-serslides.netlify.app/#1
 url_source: ""
 url_video: ""
 ---
+
+A Spanish translation of this manuscript can be found in the [Supplementary Material 2](https://static-content.springer.com/esm/art%3A10.1007%2Fs10654-020-00694-5/MediaObjects/10654_2020_694_MOESM2_ESM.pdf).
