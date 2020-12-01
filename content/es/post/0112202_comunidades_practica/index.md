@@ -8,6 +8,11 @@ categories:
 date: '2020-12-01'
 draft: false
 featured: true
+image:
+  placement: 1
+  caption: 'Henri Matisse. Dance (I). Paris, Boulevard des Invalides. [MOMA](https://www.moma.org/collection/works/79124)'
+  focal_point: Center
+  preview_only: no
 summary: Por qué ser parte de comunidades de práctica?
 tags:
 - comunidades

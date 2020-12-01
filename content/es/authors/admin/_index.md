@@ -54,4 +54,4 @@ Disfruto enseñar epidemiología y programación en R, además de trabajar en co
 
 Mantengo mi corazón cerca de mi hogar, en La Paz - Bolivia.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Descarga mi {{< staticref "media/demo_resume.pdf" "newtab" >}}resumen de CV{{< /staticref >}}.
