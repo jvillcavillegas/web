@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Salud publica | L. Paloma Rojas-Saunero</title>
+    <link>/es/tag/salud-publica/</link>
+      <atom:link href="/es/tag/salud-publica/index.xml" rel="self" type="application/rss+xml" />
+    <description>Salud publica</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud08db874d537f07f5a2207f5205ecb1e_175689_512x512_fill_lanczos_center_2.png</url>
+      <title>Salud publica</title>
+      <link>/es/tag/salud-publica/</link>
+    </image>
+    
+    <item>
+      <title>In the midst of two realities</title>
+      <link>/es/publication/epi2020/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/es/publication/epi2020/</guid>
+      <description>&lt;p&gt;Este es un comentario publicado como parte de una Sección Especial del primer Volumen de 2021 de la revista &lt;em&gt;Epidemiology&lt;/em&gt;. Esta sección especial fue una recopilación de diferentes epidemiólogues de todo el mundo, narrando cómo se siente ser epidemiólogue en el año 2020.&lt;/p&gt;
+&lt;p&gt;Una traducción al español de este ensayo se puede encontrar en el eAppendix: &lt;a href=&#34;http://links.lww.com/EDE/B741&#34;&gt;http://links.lww.com/EDE/B741&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+---
+title: Inferencia causal, tiempo al evento y eventos competitivos
+author: Paloma
+date: '2021-02-12'
+slug: inferencia-causal-y-tiempo-al-evento
+categories:
+  - Inferencia causal
+tags:
+  - Inferencia causal
+  - Tiempo al evento
+  - Eventos competitivos
+subtitle: ''
+summary: 'Charla introductoria sobre inferencia causal y análisis de tiempo al evento y eventos competitivos'
+abstract: Esta charla está enfocada en las preguntas de investigación causales cuyo evento se da a lo largo del seguimiento (eventos incidentes). Describimos como ir de la pregunta de investigación, al parámetro poblacional y conectar el parámetro con los supuestos de identificabilidad y el método analítico que responde a la pregunta. Durante esta charla describiremos como formular preguntas de tiempo al evento cuando existen eventos competitivos. Finalmente discutiré cómo podemos responder a las mismas preguntas de investigación si tenemos datos observacionales.
+location: Hospital Italiano de Buenos Aires, Argentina (Virtual)
+authors: []
+lastmod: '2021-02-12T12:39:57+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+links:
+- icon: images
+  icon_pack: fas
+  name: diapositivas
+  url: "https://palolili23.github.io/eventos_competitivos/index.html#1"
+- icon: github
+  icon_pack: fab
+  name: materiales
+  url: "https://github.com/palolili23/eventos_competitivos"
+---
+
+```{r, echo = FALSE}
+knitr::include_url("https://palolili23.github.io/eventos_competitivos/index.html")
+```

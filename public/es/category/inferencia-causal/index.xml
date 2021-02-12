@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inferencia causal | L. Paloma Rojas-Saunero</title>
+    <link>/es/category/inferencia-causal/</link>
+      <atom:link href="/es/category/inferencia-causal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Inferencia causal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Fri, 12 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud08db874d537f07f5a2207f5205ecb1e_175689_512x512_fill_lanczos_center_2.png</url>
+      <title>Inferencia causal</title>
+      <link>/es/category/inferencia-causal/</link>
+    </image>
+    
+    <item>
+      <title>Inferencia causal, tiempo al evento y eventos competitivos</title>
+      <link>/es/talk/inferencia-causal-tiempo-al-evento-y-eventos-competitivos/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/es/talk/inferencia-causal-tiempo-al-evento-y-eventos-competitivos/</guid>
+      <description>
+&lt;link href=&#34;index_files/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;index_files/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;iframe src=&#34;https://palolili23.github.io/eventos_competitivos/index.html&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

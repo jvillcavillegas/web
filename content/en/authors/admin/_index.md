@@ -53,4 +53,3 @@ I enjoy teaching epidemiology, R programing and to work with communities. This i
 
 I keep my heart close to home in La Paz, Bolivia. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

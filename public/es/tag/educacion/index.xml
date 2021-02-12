@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>educación | L. Paloma Rojas-Saunero</title>
+    <link>/es/tag/educacion/</link>
+      <atom:link href="/es/tag/educacion/index.xml" rel="self" type="application/rss+xml" />
+    <description>educación</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud08db874d537f07f5a2207f5205ecb1e_175689_512x512_fill_lanczos_center_2.png</url>
+      <title>educación</title>
+      <link>/es/tag/educacion/</link>
+    </image>
+    
+    <item>
+      <title>Brecha de género en educación.</title>
+      <link>/es/project/educacion_bol/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/es/project/educacion_bol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
