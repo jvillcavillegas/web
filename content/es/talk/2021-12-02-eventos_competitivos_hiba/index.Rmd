@@ -26,10 +26,10 @@ links:
   icon_pack: fas
   name: diapositivas
   url: "https://palolili23.github.io/eventos_competitivos/index.html#1"
-- icon: github
-  icon_pack: fab
-  name: materiales
-  url: "https://github.com/palolili23/eventos_competitivos"
+# - icon: github
+#   icon_pack: fab
+#   name: materiales
+#   url: "https://github.com/palolili23/eventos_competitivos"
 ---
 
 ```{r, echo = FALSE}
