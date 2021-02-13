@@ -1,0 +1,45 @@
+---
+title: Emulating a target trial of statin use and risk of dementia using cohort data
+authors:
+  - Ellen C. Caniglia
+  - admin
+  - Saima Hilal
+  - Silvan Licher
+  - Roger Logan
+  - Bruno Stricker
+  - M. Arfan Ikram
+  - Sonja A. Swanson
+date: '2020-09-08'
+slug: neurology2020
+categories:
+  - causal inference
+tags:
+  - causal inference
+  - target trial emulation
+  - dementia
+  - statins
+subtitle: ''
+lastmod: '2021-02-13T22:51:29+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: 
+links:
+- icon: file-pdf
+  icon_pack: fas
+  name: original v.
+  url: "https://link.springer.com/content/pdf/10.1007/s10654-020-00694-5.pdf"
+doi: "https://doi.org/10.1212/WNL.0000000000010433"
+---
+
+**Objective:** Observational data can be used to attempt to emulate a target trial of statin use and estimate analogues of intention-to-treat and per protocol effects on dementia risk.
+
+**Methods:** Using data from a prospective cohort study in the Netherlands, we conceptualized a sequence of “trials” in which eligible individuals ages 55–80 years were classified as statin initiators or noninitiators for every consecutive month between 1993 and 2007 and were followed until diagnosis of dementia, death, loss to follow-up, or the end of follow-up. We estimated 2 types of effects of statin use on dementia and a combined endpoint of dementia or death: the effect of initiation vs no initiation and the effect of sustained use vs no use. We estimated risk by statin treatment strategy over time via pooled logistic regression. We used inverse-probability weighting to account for treatment-confounder feedback in estimation of per-protocol effects.
+
+**Results:** Of 233,526 eligible person-trials (6,373 individuals), there were 622 initiators and 232,904 noninitiators. Comparing statin initiation with no initiation, the 10-year risk differences (95% confidence interval) were −0.1% (−2.3% to 1.8%) for dementia and 0.3% (−2.7% to 3.3%) for dementia or death. Comparing sustained statin use vs no use, the 10-year risk differences were −2.2% (−5.2% to 1.6%) for dementia and −5.1% (−10.5% to −1.1%) for dementia or death.
+
+**Conclusions:** Individuals with sustained statin use, but not statin initiation alone, had reduced 10-year risks of dementia and dementia or death. Our results should be interpreted with caution due to the small number of initiators and events and potential for residual confounding.
+
+For the *pdf* version please get in touch.

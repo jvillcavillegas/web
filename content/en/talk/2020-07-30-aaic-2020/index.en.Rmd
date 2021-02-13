@@ -24,7 +24,7 @@ links:
 - icon: images
   icon_pack: fas
   name: Slides
-  url: ""
+  url: "https://palolili-aaic2020.netlify.app/#1"
 - icon: video
   icon_pack: fas
   name: Video
@@ -35,6 +35,6 @@ I presented this work in the session of [**SCR4-29 - Public Health: Innovative M
 
 
 ```{r, echo = FALSE}
-knitr::include_url("https://eje2020-serslides.netlify.app/#1")
+knitr::include_url("https://palolili-aaic2020.netlify.app/#1")
 ```
 

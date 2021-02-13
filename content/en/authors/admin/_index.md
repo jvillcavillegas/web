@@ -19,6 +19,7 @@ highlight_name: false
 interests:
 - Epidemiology
 - Causal inference
+- Global health
 - R
 - Reproducibility and Open science
 organizations:
@@ -49,7 +50,7 @@ user_groups:
 
 I am a PhD candidate at the Epidemiology Department of [Erasmus MC](https://www.erasmusmc.nl/en/research/groups/causal-inference-group). My research is focused in applying causal inference methods in cohort studies, specifically to emulate target trials for long-term exposures related to dementia and to understand the role of competing events in this setting. 
 
-I am very enthusiastic about epidemiology, open science, R programming, communities of practice, teaching and their intersection. This is why I co-organize [R-Ladies Rotterdam](https://twitter.com/rladiesrdam) and [Reprohack](https://reprohack.github.io/reprohack-hq/). I am also an [RStudio Certified Instructor](https://education.rstudio.com/trainers/people/rojas-saunero+paloma/).
+I am very interested in the concept of open science and collective learning. For this reason I organize [R-Ladies Rotterdam](https://twitter.com/rladiesrdam) and [Reprohack](https://reprohack.github.io/reprohack-hq/). I am also an [RStudio Certified Instructor](https://education.rstudio.com/trainers/people/rojas-saunero+paloma/).
 
 I keep my heart close to home in La Paz, Bolivia. 
 
