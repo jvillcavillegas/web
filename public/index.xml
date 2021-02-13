@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L. Paloma Rojas-Saunero</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://palolili.netlify.app/</link>
+      <atom:link href="https://palolili.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>L. Paloma Rojas-Saunero</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hud08db874d537f07f5a2207f5205ecb1e_175689_512x512_fill_lanczos_center_2.png</url>
+      <url>https://palolili.netlify.app/images/icon_hud08db874d537f07f5a2207f5205ecb1e_175689_512x512_fill_lanczos_center_2.png</url>
       <title>L. Paloma Rojas-Saunero</title>
-      <link>/</link>
+      <link>https://palolili.netlify.app/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>/courses/example/example1/</link>
+      <link>https://palolili.netlify.app/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example1/</guid>
+      <guid>https://palolili.netlify.app/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>/courses/example/example2/</link>
+      <link>https://palolili.netlify.app/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example2/</guid>
+      <guid>https://palolili.netlify.app/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -55,30 +55,37 @@
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <title>In the midst of two realities</title>
+      <link>https://palolili.netlify.app/publication/epi2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://palolili.netlify.app/publication/epi2021/</guid>
+      <description>
+
+
+&lt;p&gt;This commentary is part of the Special Section of the first volume of 2021 of the journal &lt;a href=&#34;https://journals.lww.com/epidem/toc/2021/01000&#34;&gt;&lt;em&gt;Epidemiology&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hypothetical blood-pressure-lowering interventions and risk of stroke and dementia</title>
+      <link>https://palolili.netlify.app/talk/ser-talk-2020/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://palolili.netlify.app/talk/ser-talk-2020/</guid>
+      <description>
+
+
+&lt;p&gt;I presented this work in the session of &lt;a href=&#34;https://epiresearch.org/event/early-identification-and-prevention-of-brain-disorders/?instance_id=181&#34;&gt;&lt;strong&gt;Early identification and prevention of brain disorders&lt;/strong&gt;&lt;/a&gt; at the Society for Epidemiologic Research Conference, 2020.&lt;/p&gt;
+&lt;p&gt;The work from this presentation has been published at the European Journal of Epidemiology, more information &lt;a href=&#34;https://palolili.netlify.app/publication/eje2020/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe src=&#34;https://eje2020-serslides.netlify.app/#1&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
+&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
       <title>Comunidades de Práctica</title>
-      <link>/post/0112202_comunidades_practica/</link>
+      <link>https://palolili.netlify.app/post/0112202_comunidades_practica/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/post/0112202_comunidades_practica/</guid>
+      <guid>https://palolili.netlify.app/post/0112202_comunidades_practica/</guid>
       <description>&lt;br&gt;
 &lt;p&gt;Muchas veces no queda más que ser autodidacta. Recuerdo pasar días enteros en la biblioteca de la facu comiendo libros, revisando temas que serían parte de los exámenes parciales y finales, pero que no eran temas que se cubrieran en clases. Si bien me encanta estudiar y aprender sóla, era frustante mantenerme en la constante duda de si estaría entendiendo bien lo que leía, porque no tenía con quien discutirlo. Mirando para atrás me doy cuenta que además, en ese tiempo, era más solitaria y no me apoyaba mucho en los grupos de estudio, creo que era un ambiente bastante competitivo y no era fácil decirnos entre colegas &amp;ldquo;&lt;em&gt;no entiendo&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Fue durante la maestría y el doctorado que encontré las &lt;em&gt;&lt;strong&gt;comunidades de práctica&lt;/strong&gt;&lt;/em&gt;, espacios amistosos dónde se encuentran personas con el mismo interés de aprender, compartir y practicar una herramienta o un tema. Estos espacios colectivos tienen, en general, el compromiso de hacer el espacio y el diálogo generado de una forma segura y cálida para todes sus asistentes (aka &lt;a href=&#34;[https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md]%28https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md%29&#34;&gt;&amp;ldquo;Código de Cónducta&amp;rdquo;&lt;/a&gt;). Además en estos espacios hay una horizontalidad única, dónde independientemente de si eres novate o experte en un tema, todes nos tratamos por igual. Y es gracias a estos espacios que he aprendido herramientas relevantes para mi trabajo diario, conocí personas muy valiosas y generosas de quienes aprendo mucho y me ha abierto puertas que no hubiesen estado a mi alcance en circunstancias diferentes.&lt;/p&gt;
@@ -121,36 +128,58 @@ y contribuyo activamente como organizadora en &lt;a href=&#34;[https://www.meetu
     
     <item>
       <title>Hypothetical blood-pressure-lowering interventions and risk of stroke and dementia</title>
-      <link>/publication/eje2020/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/eje2020/</guid>
-      <description>&lt;p&gt;A Spanish translation of this manuscript can be found in the &lt;a href=&#34;https://static-content.springer.com/esm/art%3A10.1007%2Fs10654-020-00694-5/MediaObjects/10654_2020_694_MOESM2_ESM.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supplementary Material 2&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>In the midst of two realities</title>
-      <link>/publication/epi2020/</link>
-      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/epi2020/</guid>
-      <description>&lt;p&gt;This is a commentary published as a part of a Special Section of the 1st. Volume of 2021. This special edition was a compilation of different epidemiologists from all over the world, narrating how it feels to be an epidemiologist in 2020.&lt;/p&gt;
-&lt;p&gt;A Spanish translation of this essay can be found in the eAppendix: &lt;a href=&#34;http://links.lww.com/EDE/B741&#34;&gt;http://links.lww.com/EDE/B741&lt;/a&gt;.&lt;/p&gt;
+      <link>https://palolili.netlify.app/publication/eje2020/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://palolili.netlify.app/publication/eje2020/</guid>
+      <description>
+
+
+&lt;p&gt;We aimed to study the effects of hypothetical interventions on systolic blood pressure (SBP) and smoking on risk of stroke and dementia using data from 15 years of follow-up in the Rotterdam Study. We used data from 4930 individuals, aged 55–80 years, with no prior history of stroke, dementia or cognitive impairment, followed for 15 years within the Rotterdam Study, a population-based cohort. We defined the following sustained interventions on SBP: (1) maintaining SBP below 120 mmHg, (2) maintaining SBP below 140 mmHg, (3) reducing SBP by 10% if above 140 mmHg, (4) reducing SBP by 20% if above 140 mmHg, and a combined intervention of quitting smoking with each of these SBP-lowering strategies. We considered incident stroke and incident dementia diagnoses as outcomes. We applied the parametric g-formula to adjust for baseline and time-varying confounding. The observed 15-year risk for stroke was 10.7%. Compared to no specified intervention (i.e., the “natural course”), all interventions that involved reducing SBP were associated with a stroke risk reduction of about 10% (e.g., reducing SBP by 20% if above 140 mmHg risk ratio: 0.89; 95% CI 0.76, 1). Jointly intervening on SBP and smoking status further decreased the risk of stroke (e.g., risk ratio: 0.83; 95% CI 0.71, 0.94). None of the specified interventions were associated with a substantive change in dementia risk. Our study suggests that a joint intervention on SBP and smoking cessation during later life may reduce stroke risk, while the potential for reducing dementia risk were not observed.&#34;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Gender disparity in the NEJM</title>
-      <link>/project/gender_nejm/</link>
+      <link>https://palolili.netlify.app/project/gender_nejm/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/project/gender_nejm/</guid>
+      <guid>https://palolili.netlify.app/project/gender_nejm/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Looking at competing events through a different lens in dementia research: Examples from the Rotterdam Study</title>
+      <link>https://palolili.netlify.app/talk/aaic-2020/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://palolili.netlify.app/talk/aaic-2020/</guid>
+      <description>
+
+
+&lt;p&gt;I presented this work in the session of &lt;a href=&#34;https://alz.confex.com/alz/20amsterdam/meetingapp.cgi/Session/6723&#34;&gt;&lt;strong&gt;SCR4-29 - Public Health: Innovative Methods In ADRD Research&lt;/strong&gt;&lt;/a&gt; at the Alzheimer’s Association International Conference on July, 2020. I co-chaired this virtual session.&lt;/p&gt;
+&lt;iframe src=&#34;https://eje2020-serslides.netlify.app/#1&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Looking at competing events through a different lens in dementia research</title>
+      <link>https://palolili.netlify.app/talk/melodem-2020/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://palolili.netlify.app/talk/melodem-2020/</guid>
+      <description>
+
+
+&lt;p&gt;I presented this work in the &lt;a href=&#34;http://sites.bu.edu/melodem/files/2020/11/MELODEM-Progress-Meeting-2020.pdf&#34;&gt;Selection Session&lt;/a&gt; at &lt;a href=&#34;http://www.melodem.org/&#34;&gt;MELODEM’s&lt;/a&gt; first virtual Annual Meeting on July 2020.&lt;/p&gt;
+&lt;p&gt;The manuscript of this work is in process.&lt;/p&gt;
+&lt;iframe src=&#34;https://melodem2020-rojassaunero.netlify.app/#46&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>https://palolili.netlify.app/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
+      <guid>https://palolili.netlify.app/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;

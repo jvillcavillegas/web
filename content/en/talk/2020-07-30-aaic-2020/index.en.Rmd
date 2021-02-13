@@ -1,0 +1,40 @@
+---
+title: 'Looking at competing events through a different lens in dementia research: Examples from the Rotterdam Study'
+author: Paloma
+date: '2020-07-30'
+slug: aaic-2020
+categories:
+  - causal inference
+  - competing events
+tags:
+  - causal inference
+  - competing events
+  - dementia
+  - mortality
+subtitle: 'Alzheimers Association International Conference 2020, AAIC'
+authors: []
+lastmod: '2021-02-13T19:57:30+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+links:
+- icon: images
+  icon_pack: fas
+  name: Slides
+  url: ""
+- icon: video
+  icon_pack: fas
+  name: Video
+  url: "https://bit.ly/2BEZEvu"
+---
+
+I presented this work in the session of [**SCR4-29 - Public Health: Innovative Methods In ADRD Research**](https://alz.confex.com/alz/20amsterdam/meetingapp.cgi/Session/6723) at the Alzheimer's Association International Conference on July, 2020. I co-chaired this virtual session. 
+
+
+```{r, echo = FALSE}
+knitr::include_url("https://eje2020-serslides.netlify.app/#1")
+```
+

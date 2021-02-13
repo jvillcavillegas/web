@@ -1,0 +1,35 @@
+---
+title: "Comentario: En medio de dos realidades"
+author: Paloma
+date: '2021-01-01'
+slug: epi2021
+categories:
+  - Salud pública
+  - COVID19
+tags:
+  - Salud pública
+  - COVID19
+  - Activismo
+  - Bolivia
+subtitle: 'Traducción de: In the midst of two realities'
+summary: ''
+authors: []
+lastmod: '2021-02-13T21:29:43+01:00'
+featured: no
+image:
+  caption: 'Las conquistas científicas solo sirven si estas están al servicio del pueblo. - Ramon Carrillo. Grafitti from Buenos Aires.'
+  focal_point: ''
+  preview_only: no
+projects: []
+links:
+- icon: file-alt
+  icon_pack: fas
+  name: v. traducida
+  url: "http://links.lww.com/EDE/B741"
+- icon: file-pdf
+  icon_pack: fas
+  name: v. original
+  url: "https://cdn-links.lww.com/permalink/ede/a/ede_32_1_2020_10_28_swanson_20-0782_sdc1.pdf"
+doi: "https://doi.org/10.1097/ede.0000000000001289"
+---
+Esta es la traducción al español del comentario [_"In the midst of two realities"_](https://journals.lww.com/epidem/Citation/2021/01000/In_the_Midst_of_Two_Realities.32.aspx?context=LatestArticles), publicado como parte de la Sección Especial del primer Volumen de 2021 de la revista [*Epidemiology*](https://journals.lww.com/epidem/toc/2021/01000). 

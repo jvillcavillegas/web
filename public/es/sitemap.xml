@@ -3,622 +3,611 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/es/courses/example/example1/</loc>
+    <loc>https://palolili.netlify.app/es/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/courses/example/example1/"
+                href="https://palolili.netlify.app/courses/example/example1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/courses/example/example1/"
+                href="https://palolili.netlify.app/es/courses/example/example1/"
                 />
   </url>
   
   <url>
-    <loc>/es/courses/example/</loc>
+    <loc>https://palolili.netlify.app/es/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/courses/example/"
+                href="https://palolili.netlify.app/courses/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/courses/example/"
+                href="https://palolili.netlify.app/es/courses/example/"
                 />
   </url>
   
   <url>
-    <loc>/es/courses/example/example2/</loc>
+    <loc>https://palolili.netlify.app/es/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/courses/example/example2/"
+                href="https://palolili.netlify.app/courses/example/example2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/courses/example/example2/"
+                href="https://palolili.netlify.app/es/courses/example/example2/"
                 />
   </url>
   
   <url>
-    <loc>/es/categories/</loc>
-    <lastmod>2021-02-12T12:39:57+01:00</lastmod>
+    <loc>https://palolili.netlify.app/es/categories/</loc>
+    <lastmod>2021-02-13T21:29:43+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://palolili.netlify.app/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/categories/"
+                href="https://palolili.netlify.app/es/categories/"
                 />
   </url>
   
   <url>
-    <loc>/es/tag/eventos-competitivos/</loc>
-    <lastmod>2021-02-12T12:39:57+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/tag/inferencia-causal/</loc>
+    <loc>https://palolili.netlify.app/es/tag/eventos-competitivos/</loc>
     <lastmod>2021-02-12T12:39:57+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/category/inferencia-causal/</loc>
+    <loc>https://palolili.netlify.app/es/tag/inferencia-causal/</loc>
     <lastmod>2021-02-12T12:39:57+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/talk/inferencia-causal-tiempo-al-evento-y-eventos-competitivos/</loc>
+    <loc>https://palolili.netlify.app/es/category/inferencia-causal/</loc>
     <lastmod>2021-02-12T12:39:57+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/</loc>
-    <lastmod>2021-02-12T12:39:57+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/talk/</loc>
-    <lastmod>2021-02-12T12:39:57+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/talk/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/tags/</loc>
-    <lastmod>2021-02-12T12:39:57+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/tag/tiempo-al-evento/</loc>
+    <loc>https://palolili.netlify.app/es/talk/inferencia-causal-tiempo-al-evento-y-eventos-competitivos/</loc>
     <lastmod>2021-02-12T12:39:57+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/publication-type/2/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <loc>https://palolili.netlify.app/es/</loc>
+    <lastmod>2021-02-13T21:29:43+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publication-type/2/"
+                href="https://palolili.netlify.app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/publication-type/2/"
+                href="https://palolili.netlify.app/es/"
                 />
   </url>
   
   <url>
-    <loc>/es/authors/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <loc>https://palolili.netlify.app/es/talk/</loc>
+    <lastmod>2021-02-12T12:39:57+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors/"
+                href="https://palolili.netlify.app/talk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/authors/"
+                href="https://palolili.netlify.app/es/talk/"
                 />
   </url>
   
   <url>
-    <loc>/es/tag/comunidades/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/category/comunidades/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/post/0112202_comunidades_practica/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <loc>https://palolili.netlify.app/es/tags/</loc>
+    <lastmod>2021-02-13T21:29:43+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/0112202_comunidades_practica/"
+                href="https://palolili.netlify.app/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/post/0112202_comunidades_practica/"
+                href="https://palolili.netlify.app/es/tags/"
                 />
   </url>
   
   <url>
-    <loc>/es/tag/dementia/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <loc>https://palolili.netlify.app/es/tag/tiempo-al-evento/</loc>
+    <lastmod>2021-02-12T12:39:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://palolili.netlify.app/es/tag/activismo/</loc>
+    <lastmod>2021-02-13T21:29:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://palolili.netlify.app/es/tag/bolivia/</loc>
+    <lastmod>2021-02-13T21:29:43+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tag/dementia/"
+                href="https://palolili.netlify.app/tag/bolivia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tag/dementia/"
+                href="https://palolili.netlify.app/es/tag/bolivia/"
                 />
   </url>
   
   <url>
-    <loc>/es/author/eleanor-murray/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <loc>https://palolili.netlify.app/es/publication/epi2021/</loc>
+    <lastmod>2021-02-13T21:29:43+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/eleanor-murray/"
+                href="https://palolili.netlify.app/publication/epi2021/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/author/eleanor-murray/"
+                href="https://palolili.netlify.app/es/publication/epi2021/"
                 />
   </url>
   
   <url>
-    <loc>/es/tag/g-formula/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <loc>https://palolili.netlify.app/es/tag/covid19/</loc>
+    <lastmod>2021-02-13T21:29:43+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tag/g-formula/"
+                href="https://palolili.netlify.app/tag/covid19/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tag/g-formula/"
+                href="https://palolili.netlify.app/es/tag/covid19/"
                 />
   </url>
   
   <url>
-    <loc>/es/tag/hypertension/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <loc>https://palolili.netlify.app/es/category/covid19/</loc>
+    <lastmod>2021-02-13T21:29:43+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tag/hypertension/"
+                href="https://palolili.netlify.app/category/covid19/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tag/hypertension/"
+                href="https://palolili.netlify.app/es/category/covid19/"
                 />
   </url>
   
   <url>
-    <loc>/es/publication/eje2020/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <loc>https://palolili.netlify.app/es/publication/</loc>
+    <lastmod>2021-02-13T21:29:43+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publication/eje2020/"
+                href="https://palolili.netlify.app/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/publication/eje2020/"
+                href="https://palolili.netlify.app/es/publication/"
                 />
   </url>
   
   <url>
-    <loc>/es/author/l.-paloma-rojas-saunero/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <loc>https://palolili.netlify.app/es/tag/salud-publica/</loc>
+    <lastmod>2021-02-13T21:29:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://palolili.netlify.app/es/category/salud-publica/</loc>
+    <lastmod>2021-02-13T21:29:43+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/l.-paloma-rojas-saunero/"
+                href="https://palolili.netlify.app/category/salud-publica/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/author/l.-paloma-rojas-saunero/"
+                href="https://palolili.netlify.app/es/category/salud-publica/"
                 />
   </url>
   
   <url>
-    <loc>/es/author/m.-arfan-ikram/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <loc>https://palolili.netlify.app/es/authors/</loc>
+    <lastmod>2021-02-13T20:52:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/m.-arfan-ikram/"
+                href="https://palolili.netlify.app/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/author/m.-arfan-ikram/"
+                href="https://palolili.netlify.app/es/authors/"
                 />
   </url>
   
   <url>
-    <loc>/es/post/</loc>
+    <loc>https://palolili.netlify.app/es/tag/comunidades/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://palolili.netlify.app/es/category/comunidades/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://palolili.netlify.app/es/post/0112202_comunidades_practica/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/"
+                href="https://palolili.netlify.app/post/0112202_comunidades_practica/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/post/"
+                href="https://palolili.netlify.app/es/post/0112202_comunidades_practica/"
                 />
   </url>
   
   <url>
-    <loc>/es/publication_types/</loc>
+    <loc>https://palolili.netlify.app/es/author/l.-paloma-rojas-saunero/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publication_types/"
+                href="https://palolili.netlify.app/author/l.-paloma-rojas-saunero/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/publication_types/"
+                href="https://palolili.netlify.app/es/author/l.-paloma-rojas-saunero/"
                 />
   </url>
   
   <url>
-    <loc>/es/publication/</loc>
+    <loc>https://palolili.netlify.app/es/post/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publication/"
+                href="https://palolili.netlify.app/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/publication/"
+                href="https://palolili.netlify.app/es/post/"
                 />
   </url>
   
   <url>
-    <loc>/es/tag/r-ladies/</loc>
+    <loc>https://palolili.netlify.app/es/tag/r-ladies/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tag/r-ladies/"
+                href="https://palolili.netlify.app/tag/r-ladies/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tag/r-ladies/"
+                href="https://palolili.netlify.app/es/tag/r-ladies/"
                 />
   </url>
   
   <url>
-    <loc>/es/category/r-ladies/</loc>
+    <loc>https://palolili.netlify.app/es/category/r-ladies/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/category/r-ladies/"
+                href="https://palolili.netlify.app/category/r-ladies/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/category/r-ladies/"
+                href="https://palolili.netlify.app/es/category/r-ladies/"
                 />
   </url>
   
   <url>
-    <loc>/es/tag/reproducibilidad/</loc>
+    <loc>https://palolili.netlify.app/es/tag/reproducibilidad/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/category/reproducibilidad/</loc>
+    <loc>https://palolili.netlify.app/es/category/reproducibilidad/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/author/roger-logan/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <loc>https://palolili.netlify.app/es/tag/acv/</loc>
+    <lastmod>2021-02-13T20:52:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://palolili.netlify.app/es/tag/demencia/</loc>
+    <lastmod>2021-02-13T20:52:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://palolili.netlify.app/es/author/eleanor-murray/</loc>
+    <lastmod>2021-02-13T20:52:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/roger-logan/"
+                href="https://palolili.netlify.app/author/eleanor-murray/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/author/roger-logan/"
+                href="https://palolili.netlify.app/es/author/eleanor-murray/"
                 />
   </url>
   
   <url>
-    <loc>/es/author/saima-hilal/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <loc>https://palolili.netlify.app/es/tag/ensayo-ideal/</loc>
+    <lastmod>2021-02-13T20:52:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://palolili.netlify.app/es/tag/g-formula/</loc>
+    <lastmod>2021-02-13T20:52:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/saima-hilal/"
+                href="https://palolili.netlify.app/tag/g-formula/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/author/saima-hilal/"
+                href="https://palolili.netlify.app/es/tag/g-formula/"
                 />
   </url>
   
   <url>
-    <loc>/es/author/sonja-a.-swanson/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <loc>https://palolili.netlify.app/es/tag/hipertension-arterial/</loc>
+    <lastmod>2021-02-13T20:52:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://palolili.netlify.app/es/publication/eje2020/</loc>
+    <lastmod>2021-02-13T20:52:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/sonja-a.-swanson/"
+                href="https://palolili.netlify.app/publication/eje2020/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/author/sonja-a.-swanson/"
+                href="https://palolili.netlify.app/es/publication/eje2020/"
                 />
   </url>
   
   <url>
-    <loc>/es/tag/stroke/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <loc>https://palolili.netlify.app/es/author/l.-paloma-rojas-saunero/</loc>
+    <lastmod>2021-02-13T20:52:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tag/stroke/"
+                href="https://palolili.netlify.app/author/l.-paloma-rojas-saunero/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tag/stroke/"
+                href="https://palolili.netlify.app/es/author/l.-paloma-rojas-saunero/"
                 />
   </url>
   
   <url>
-    <loc>/es/tag/target-trial/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <loc>https://palolili.netlify.app/es/author/m.-arfan-ikram/</loc>
+    <lastmod>2021-02-13T20:52:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tag/target-trial/"
+                href="https://palolili.netlify.app/author/m.-arfan-ikram/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tag/target-trial/"
+                href="https://palolili.netlify.app/es/author/m.-arfan-ikram/"
                 />
   </url>
   
   <url>
-    <loc>/es/tag/activism0/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/tag/bolivia/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <loc>https://palolili.netlify.app/es/author/roger-logan/</loc>
+    <lastmod>2021-02-13T20:52:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tag/bolivia/"
+                href="https://palolili.netlify.app/author/roger-logan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tag/bolivia/"
+                href="https://palolili.netlify.app/es/author/roger-logan/"
                 />
   </url>
   
   <url>
-    <loc>/es/tag/covid19/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <loc>https://palolili.netlify.app/es/author/saima-hilal/</loc>
+    <lastmod>2021-02-13T20:52:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tag/covid19/"
+                href="https://palolili.netlify.app/author/saima-hilal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tag/covid19/"
+                href="https://palolili.netlify.app/es/author/saima-hilal/"
                 />
   </url>
   
   <url>
-    <loc>/es/publication/epi2020/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <loc>https://palolili.netlify.app/es/author/sonja-a.-swanson/</loc>
+    <lastmod>2021-02-13T20:52:49+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publication/epi2020/"
+                href="https://palolili.netlify.app/author/sonja-a.-swanson/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/publication/epi2020/"
+                href="https://palolili.netlify.app/es/author/sonja-a.-swanson/"
                 />
   </url>
   
   <url>
-    <loc>/es/tag/salud-publica/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/es/tag/datos-abiertos-y-r/</loc>
+    <loc>https://palolili.netlify.app/es/tag/datos-abiertos-y-r/</loc>
     <lastmod>2020-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/project/gender_nejm/</loc>
+    <loc>https://palolili.netlify.app/es/project/gender_nejm/</loc>
     <lastmod>2020-09-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/project/gender_nejm/"
+                href="https://palolili.netlify.app/project/gender_nejm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/project/gender_nejm/"
+                href="https://palolili.netlify.app/es/project/gender_nejm/"
                 />
   </url>
   
   <url>
-    <loc>/es/tag/espanol/</loc>
+    <loc>https://palolili.netlify.app/es/tag/espanol/</loc>
     <lastmod>2020-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/tag/feminismo/</loc>
+    <loc>https://palolili.netlify.app/es/tag/feminismo/</loc>
     <lastmod>2020-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/project/</loc>
+    <loc>https://palolili.netlify.app/es/project/</loc>
     <lastmod>2020-09-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/project/"
+                href="https://palolili.netlify.app/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/project/"
+                href="https://palolili.netlify.app/es/project/"
                 />
   </url>
   
   <url>
-    <loc>/es/tag/web-scrapping/</loc>
+    <loc>https://palolili.netlify.app/es/tag/web-scrapping/</loc>
     <lastmod>2020-09-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tag/web-scrapping/"
+                href="https://palolili.netlify.app/tag/web-scrapping/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tag/web-scrapping/"
+                href="https://palolili.netlify.app/es/tag/web-scrapping/"
                 />
   </url>
   
   <url>
-    <loc>/es/project/educacion_bol/</loc>
+    <loc>https://palolili.netlify.app/es/project/educacion_bol/</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/tag/educacion/</loc>
+    <loc>https://palolili.netlify.app/es/tag/educacion/</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/courses/</loc>
+    <loc>https://palolili.netlify.app/es/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/courses/"
+                href="https://palolili.netlify.app/courses/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/courses/"
+                href="https://palolili.netlify.app/es/courses/"
                 />
   </url>
   
   <url>
-    <loc>/es/slides/</loc>
+    <loc>https://palolili.netlify.app/es/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/slides/"
+                href="https://palolili.netlify.app/slides/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/slides/"
+                href="https://palolili.netlify.app/es/slides/"
                 />
   </url>
   
   <url>
-    <loc>/es/slides/example/</loc>
+    <loc>https://palolili.netlify.app/es/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/slides/example/"
+                href="https://palolili.netlify.app/slides/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/slides/example/"
+                href="https://palolili.netlify.app/es/slides/example/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://palolili.netlify.app/es/publication_types/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://palolili.netlify.app/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://palolili.netlify.app/es/publication_types/"
                 />
   </url>
   

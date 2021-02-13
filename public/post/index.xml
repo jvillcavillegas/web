@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | L. Paloma Rojas-Saunero</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://palolili.netlify.app/post/</link>
+      <atom:link href="https://palolili.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hud08db874d537f07f5a2207f5205ecb1e_175689_512x512_fill_lanczos_center_2.png</url>
+      <url>https://palolili.netlify.app/images/icon_hud08db874d537f07f5a2207f5205ecb1e_175689_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://palolili.netlify.app/post/</link>
     </image>
     
     <item>
       <title>Comunidades de Práctica</title>
-      <link>/post/0112202_comunidades_practica/</link>
+      <link>https://palolili.netlify.app/post/0112202_comunidades_practica/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/post/0112202_comunidades_practica/</guid>
+      <guid>https://palolili.netlify.app/post/0112202_comunidades_practica/</guid>
       <description>&lt;br&gt;
 &lt;p&gt;Muchas veces no queda más que ser autodidacta. Recuerdo pasar días enteros en la biblioteca de la facu comiendo libros, revisando temas que serían parte de los exámenes parciales y finales, pero que no eran temas que se cubrieran en clases. Si bien me encanta estudiar y aprender sóla, era frustante mantenerme en la constante duda de si estaría entendiendo bien lo que leía, porque no tenía con quien discutirlo. Mirando para atrás me doy cuenta que además, en ese tiempo, era más solitaria y no me apoyaba mucho en los grupos de estudio, creo que era un ambiente bastante competitivo y no era fácil decirnos entre colegas &amp;ldquo;&lt;em&gt;no entiendo&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Fue durante la maestría y el doctorado que encontré las &lt;em&gt;&lt;strong&gt;comunidades de práctica&lt;/strong&gt;&lt;/em&gt;, espacios amistosos dónde se encuentran personas con el mismo interés de aprender, compartir y practicar una herramienta o un tema. Estos espacios colectivos tienen, en general, el compromiso de hacer el espacio y el diálogo generado de una forma segura y cálida para todes sus asistentes (aka &lt;a href=&#34;[https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md]%28https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md%29&#34;&gt;&amp;ldquo;Código de Cónducta&amp;rdquo;&lt;/a&gt;). Además en estos espacios hay una horizontalidad única, dónde independientemente de si eres novate o experte en un tema, todes nos tratamos por igual. Y es gracias a estos espacios que he aprendido herramientas relevantes para mi trabajo diario, conocí personas muy valiosas y generosas de quienes aprendo mucho y me ha abierto puertas que no hubiesen estado a mi alcance en circunstancias diferentes.&lt;/p&gt;

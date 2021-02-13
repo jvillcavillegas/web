@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | L. Paloma Rojas-Saunero</title>
-    <link>/es/project/</link>
-      <atom:link href="/es/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://palolili.netlify.app/es/project/</link>
+      <atom:link href="https://palolili.netlify.app/es/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hud08db874d537f07f5a2207f5205ecb1e_175689_512x512_fill_lanczos_center_2.png</url>
+      <url>https://palolili.netlify.app/images/icon_hud08db874d537f07f5a2207f5205ecb1e_175689_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>/es/project/</link>
+      <link>https://palolili.netlify.app/es/project/</link>
     </image>
     
     <item>
       <title>Disparidad de género en autorías de la revista New England Journal of Medicine</title>
-      <link>/es/project/gender_nejm/</link>
+      <link>https://palolili.netlify.app/es/project/gender_nejm/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/es/project/gender_nejm/</guid>
+      <guid>https://palolili.netlify.app/es/project/gender_nejm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brecha de género en educación.</title>
-      <link>/es/project/educacion_bol/</link>
+      <link>https://palolili.netlify.app/es/project/educacion_bol/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/es/project/educacion_bol/</guid>
+      <guid>https://palolili.netlify.app/es/project/educacion_bol/</guid>
       <description></description>
     </item>
     

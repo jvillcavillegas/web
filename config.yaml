@@ -1,6 +1,6 @@
 theme: starter-academic
 title: L. Paloma Rojas-Saunero
-baseurl: /
+baseurl: https://palolili.netlify.app/
 copyright: ''
 enableGitInfo: no
 defaultContentLanguage: en
@@ -14,10 +14,11 @@ enableRobotsTXT: yes
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles:
   - \\.ipynb$
-  - .ipynb_checkpoints$
+  - \\.ipynb_checkpoints$
   - \\.Rmd$
   - \\.Rmarkdown$
-  - _files$
+  - \\.knit\\.md$
+  - \\.utf8\\.md$
   - _cache$
 permalinks:
   authors: /author/:slug/

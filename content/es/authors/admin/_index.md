@@ -50,7 +50,7 @@ user_groups:
 
 Soy doctoranda en Epidemiología y trabajo en el departamento de Epidemiología en [Erasmus MC](https://www.erasmusmc.nl/en/research/groups/causal-inference-group). Mi investigación se enfoca en aplicar métodos de inferencia causal a estudios de cohorte, específicamente para exposiciones de largo plazo relacionadas a demencia y a evaluar el papel de eventos competitivos. 
 
-Disfruto enseñar epidemiología y programación en R, además de trabajar en comunidades. Por este motivo soy organizadora de [R-Ladies Rotterdam](https://twitter.com/rladiesrdam), [Reprohack](https://reprohack.github.io/reprohack-hq/) e [Instructora Certificada por R Studio](https://education.rstudio.com/trainers/people/rojas-saunero+paloma/).
+Me interesa mucho el concepto de ciencia abierta y el aprendizaje colectivo. Por este motivo organizo [R-Ladies Rotterdam](https://twitter.com/rladiesrdam) y [Reprohack](https://reprohack.github.io/reprohack-hq/). Además soy [instructora Certificada por R Studio](https://education.rstudio.com/trainers/people/rojas-saunero+paloma/).
 
 Mantengo mi corazón cerca de mi hogar, en La Paz - Bolivia.
 

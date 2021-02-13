@@ -1,0 +1,48 @@
+---
+title: Hypothetical blood-pressure-lowering interventions and risk of stroke and dementia
+author: Paloma
+date: '2020-12-16'
+slug: ser-talk-2020
+categories:
+  - causal inference
+  - target trial emulation
+tags:
+  - G-Formula
+  - causal inference
+  - dementia
+  - stroke
+  - target trial emulation
+subtitle: 'Society for Epidemiologic Research Conference, 2020'
+summary: ''
+authors: []
+lastmod: '2021-02-13T18:34:28+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+links:
+- icon: images
+  icon_pack: fas
+  name: Slides
+  url: "https://eje2020-serslides.netlify.app/#1"
+- icon: book
+  icon_pack: fas
+  name: abstract book
+  url: "https://epiresearch.org/wp-content/uploads/2020/12/2020-Abstract-Book.pdf"
+- icon: Book-reader
+  icon_pack: fas
+  name: Publication
+  url: "https://link.springer.com/article/10.1007/s10654-020-00694-5"
+
+---
+
+I presented this work in the session of [**Early identification and prevention of brain disorders**](https://epiresearch.org/event/early-identification-and-prevention-of-brain-disorders/?instance_id=181) at the Society for Epidemiologic Research Conference, 2020. 
+
+The work from this presentation has been published at the European Journal of Epidemiology, more information [here](https://palolili.netlify.app/publication/eje2020/).
+
+```{r, echo = FALSE}
+knitr::include_url("https://eje2020-serslides.netlify.app/#1")
+```
+
